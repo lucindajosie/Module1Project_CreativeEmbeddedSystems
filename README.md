@@ -24,3 +24,10 @@ open wave.ino
 * Select your board (Tools > Boards > esp32 > ESP32 Dev Module)
 * Select your port (Tools > Port > _your_port_)
 * Press Upload in the top left corner
+
+## Additional Ideas
+Feel free to play around with any of the settings included but not limited to...
+* x and y velocity
+* number of trails/spacing between trails
+* color of trails
+...experiment with the numbers and see what you like!
