@@ -1,5 +1,6 @@
 # Module1Project_CreativeEmbeddedSystems
 🌊 Display a line drawing of a wave (followed by a small trail of shadows) bouncing off the edges of a picture of the beach 🌊
+
 <img width="480" height="287" alt="IMG_7676_cropped" src="https://github.com/user-attachments/assets/500244a4-4835-4d4c-85fa-7cae1b58a3a6" />
 ## Components
 * ESP32
