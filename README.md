@@ -30,4 +30,5 @@ Feel free to play around with any of the settings included but not limited to...
 * x and y velocity
 * number of trails/spacing between trails
 * color of trails
+
 ...experiment with the numbers and see what you like!
